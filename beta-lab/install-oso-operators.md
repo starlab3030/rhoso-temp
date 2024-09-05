@@ -100,6 +100,7 @@ openstack                  Active
 ```bash
 podman login --username "${USER_ID}" --password "${USER_PW}" registry.redhat.io --authfile auth.json
 ```
+* USER_ID, USER_PW는 사용자 ID와 암호로 입력
 
 출력 결과
 ```
