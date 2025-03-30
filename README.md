@@ -10,7 +10,7 @@ Red Hat OpenStack Service on OpenShift (RHOSO) 설치
   - 오픈시프트가 제공하는 GitOps를 통해 빠르고 쉽게 설치 가능
 
 
-<img align="left" src="/common-images/이승일--II_컴퓨터.png" width="280px" height="280px" title="100px" alt="안녕"></img>
+<img align="left" src="images/이승일--II_컴퓨터.png" width="280px" height="280px" title="100px" alt="안녕"></img>
 
 <br>
 <br>
@@ -30,7 +30,7 @@ Red Hat OpenStack Service on OpenShift (RHOSO) 설치
 
 <hr>
 
-<img align="left" src="/common-images/이승일--II_그래서.png" width="270px" height="270px" title="100px" alt="안녕"></img>
+<img align="left" src="images/이승일--II_그래서.png" width="270px" height="270px" title="100px" alt="안녕"></img>
 
 <br>
 <br>
@@ -46,3 +46,8 @@ ArgoCD를 기반으로 오픈스택 설치
 &nbsp;&nbsp;6. [오픈스택 데이터-플레인 구성](beta-lab-via-argocd/configure-data-plane-via-argocd.md)<br>
 &nbsp;&nbsp;7. [오픈스택 노드 확장](beta-lab-via-argocd/scale-out-compute.md)<br>
 <br>
+
+------
+
+***Powered By Shadowman*** &nbsp;&nbsp;[<img src="images/youtube.png" width="25px" title="100px" alt="유투브"/>](https://www.youtube.com/@starlab3030) &nbsp;&nbsp; [<img src="images/github-mark.svg" width="21px" title="100px" alt="것허브"/>](https://github.com/starlab3030/starlab3030.github.io) &nbsp;&nbsp; [<img src="images/hf-logo.png" width="21px" title="100px" alt="허깅페이스"/>](https://huggingface.co/starlab3030) &nbsp;&nbsp; [<img src="images/naver-blog.png" width="21px" title="100px" alt="네이버 블로그"/>](https://blog.naver.com/dark_selee)
+
